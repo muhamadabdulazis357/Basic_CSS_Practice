@@ -1,0 +1,23 @@
+/* * {
+    background-color: coral;
+}*/
+
+body {
+    background-color: #FDE7B3;
+}
+
+h1, h2, h3 {
+    color: aqua;
+}
+
+span {
+    color: azure;
+}
+
+#list2 {
+    color: black;
+}
+
+.mark {
+background-color:aquamarine;
+}

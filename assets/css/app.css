@@ -1,0 +1,15 @@
+h1{
+    color: #8a2be2;
+    /*font-size: small;*/
+    background-color: hsl(82, 39%, 30%);
+}
+
+button {
+    color: rgb(54, 147, 170);
+    background-color: cyan;
+}
+
+p{
+    color: lch(61.93% 50.18 280.73);
+    background-color: coral;
+}
