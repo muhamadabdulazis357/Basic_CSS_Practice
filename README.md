@@ -1,2 +1,2 @@
 # Basic CSS Practice
-Learn CSS Basic
+Learn Basic CSS
