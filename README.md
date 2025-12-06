@@ -1,2 +1,2 @@
-# LatihanCSSDasar
-Belajar CSS Dasar
+# Basic CSS Practice
+Learn CSS Basic
